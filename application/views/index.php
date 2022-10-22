@@ -59,7 +59,7 @@
                 </div>
                 <div class="col-lg-6 order-lg-1">
                     <div class="p-5">
-                        <h2 class="display-4">For those about to joy...</h2>
+                        <h2 class="display-4">Rasa yang pas di lidah dan dikantong</h2>
                         <p>Rasakan kenikmatan Sate kelinci di Warung ini, tanpa merogoh kocek yang dalam.. Anda sudah
                             bisa menyantap kenikmatan Sate Kelinci yang dibaluri Bumbu Pilihan </p>
                     </div>
@@ -72,15 +72,13 @@
         <div class="container px-5">
             <div class="row gx-5 align-items-center">
                 <div class="col-lg-6">
-                    <div class="p-5"><img class="img-fluid rounded-circle"
-                            src="<?php echo base_url("assets/img/02.jpg"); ?>" alt="..." /></div>
+                    <div class="p-5"><img class="img-fluid rounded-circle" style="width: 200%; height: 402px;"
+                            src="<?php echo base_url("assets/img/5.jpg"); ?>" alt="..." /></div>
                 </div>
                 <div class="col-lg-6">
                     <div class="p-5">
-                        <h2 class="display-4">We salute you!</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam
-                            sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione
-                            voluptatum molestiae adipisci, beatae obcaecati.</p>
+                        <h2 class="display-4">Menggugah Selera !</h2>
+                        <p>Apakah anda tidak yakin dengan penawaran saya ? Apakah ekspresi bapak ini terlihat bercanda ? Tidak kan ? Kelezatan Sate Kelinci Pak Angling sangat menggugah selera sampai sampai salah satu Kustomer kami Bernama Pak Zangin ini sangat terkesima</p>
                     </div>
                 </div>
             </div>
@@ -91,15 +89,13 @@
         <div class="container px-5">
             <div class="row gx-5 align-items-center">
                 <div class="col-lg-6 order-lg-2">
-                    <div class="p-5"><img class="img-fluid rounded-circle"
-                            src="<?php echo base_url("assets/img/03.jpg"); ?>" alt="..." /></div>
+                    <div class="p-5"><img style="width: 200%; height: 402px;" class="img-fluid rounded-circle"
+                            src="<?php echo base_url("assets/img/6.jpg"); ?>" alt="..." /></div>
                 </div>
                 <div class="col-lg-6 order-lg-1">
                     <div class="p-5">
-                        <h2 class="display-4">Let there be rock!</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod aliquid, mollitia odio veniam
-                            sit iste esse assumenda amet aperiam exercitationem, ea animi blanditiis recusandae! Ratione
-                            voluptatum molestiae adipisci, beatae obcaecati.</p>
+                        <h2 class="display-4">Kualitas Dunia</h2>
+                        <p>Warung ini telah mendapat Penghargaan dari Michelin Singapore. Anda rugi jika tidak mencoba !!</p>
                     </div>
                 </div>
             </div>
